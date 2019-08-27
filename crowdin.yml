@@ -1,0 +1,4 @@
+files:
+  - source: /resources/translations/messages.json
+    translation: >-
+      /resources/translations/%file_name%_%two_letters_code%.%file_extension%

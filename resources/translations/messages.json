@@ -1,0 +1,11 @@
+
+{
+"delivery-estimator-in-hour": "in {0} hour",
+"delivery-estimator-in-hours": "in {0} hours",
+"delivery-estimator-in-minutes":"in {0} minutes",
+"delivery-estimator-in-minute":"in {0} minute",
+"delivery-estimator-in-seconds":"in seconds!",
+"delivery-estimator-in-day":"in {0} day",
+"delivery-estimator-in-days":"in {0} days",
+"delivery-estimator-by":"by"
+}
